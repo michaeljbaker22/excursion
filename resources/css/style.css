@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+#title{
+  color: white;
+  font-size: 50px;
+}
+
+.download{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.content{
+  color: gray;
+  font-size: 21px;
+}
+
+.header{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
+}
